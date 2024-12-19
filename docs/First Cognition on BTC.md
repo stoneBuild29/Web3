@@ -1,8 +1,33 @@
-# First Cognition on BTC
+# Analysis and First Cognition of Bitcoin
 
-After ETH hackathon, I have learned a lot resources about web3 , BTC and the related boundry(领域): DeFI / DEFIN. And I found a lot difficulties lies on the studying process. The core and origin of blockchain is neglected by me and the explaination（解释） about it is different. Some desribtions（描述） are used to understand the structure vividly instead of analysing the intentions. At the same time, I have so many questions, “How did the first block generate? ” “Can I check it and verify any block personally””If Amy bought a coin, are there much workers clicking buttons under the vision” So I plan to read the essay and write the codes of Bitcoin  v 0.3.0(This is the lateset version on the Internet) repeatedly by myself.  The purpose of the actions is to  make myself understand the lying basement of the future work or potential research. 
+**Objective**  
+  - Plan to read Satoshi Nakamoto’s essay to understand the foundations of blockchain technology.  
+
+**Structure**
+  - **Questions Raised**
+  - **Core Idea** 
+  - **Takeaways** 
+  - **Reflections**
+  
+
+# Questions Raised
+- 
+nihbjsbis
+## nih
+bajs
+### nash
+basjdakd
+
+
+
+
+
+    
+
+
 
 ### Essay: Bitcoin: A Peer-to-Peer Electronic Cash System
+
 
 ### Abstract: ****
 
